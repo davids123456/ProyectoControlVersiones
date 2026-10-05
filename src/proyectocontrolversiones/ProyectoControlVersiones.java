@@ -20,6 +20,7 @@ public class ProyectoControlVersiones {
         //ANGEL
         //david
         //liz
+        //JADIRA
     }
     
 }
