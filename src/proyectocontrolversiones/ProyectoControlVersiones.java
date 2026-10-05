@@ -19,6 +19,7 @@ public class ProyectoControlVersiones {
         //Bryan
         //ANGEL
         //david
+        //liz
     }
     
 }
