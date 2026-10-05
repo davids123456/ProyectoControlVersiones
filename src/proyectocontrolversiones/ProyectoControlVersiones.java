@@ -18,6 +18,7 @@ public class ProyectoControlVersiones {
         //sonnia
         //Bryan
         //ANGEL
+        //david
     }
     
 }
