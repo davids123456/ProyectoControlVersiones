@@ -20,7 +20,6 @@ public class ProyectoControlVersiones {
         //david
         //liz
         //JADIRA
-        //revertir cambio
     }
     
 }
