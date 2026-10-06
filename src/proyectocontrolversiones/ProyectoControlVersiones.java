@@ -19,7 +19,6 @@ public class ProyectoControlVersiones {
         //ANGEL
         //liz
         //JADIRA
-        //angel y sonia se aman
     }
     
 }
