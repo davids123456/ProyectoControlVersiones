@@ -15,7 +15,6 @@ public class ProyectoControlVersiones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //sonnia
         //Bryan
         //ANGEL
         //david
