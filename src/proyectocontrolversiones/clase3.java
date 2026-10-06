@@ -9,6 +9,9 @@ package proyectocontrolversiones;
  * @author user
  */
 public class clase3 {
+    public void sonia(){
+        System.out.println("Sonnia");
+    }
     public void angel(){
         System.out.println("ANgel");
     }
