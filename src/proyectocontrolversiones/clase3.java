@@ -9,12 +9,7 @@ package proyectocontrolversiones;
  * @author user
  */
 public class clase3 {
-    public void angel(){
-        System.out.println("Angel");
-    }
-    public void liz(){
-        System.out.println("Lizbeth");
-    }
+    
     public void david(){
         System.out.println("David");
     }
