@@ -28,18 +28,4 @@ public class ProyectoControlVersiones {
     public void Liz(){
         System.out.println("Lizbeth Ramos");
     }
-     public void Bryan(){
-        System.out.println("Bryan Yepez");
-    }
-     
-       public void Sonnia(){
-        System.out.println("Sonnia Pillajo");
-    }
-       
-    public void Angel(){
-        System.out.println("Angel GM");
-    }
-     public void Jadira(){
-        System.out.println("Jadira Pandashina");
-    }
 }

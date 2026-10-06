@@ -10,4 +10,7 @@ package proyectocontrolversiones;
  */
 public class clase1 {
     
+ public void david (){
+     System.out.println("David");
+ }   
 }

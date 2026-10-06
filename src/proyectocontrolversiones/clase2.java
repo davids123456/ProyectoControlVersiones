@@ -10,4 +10,5 @@ package proyectocontrolversiones;
  */
 public class clase2 {
    //hola
+    
 }
