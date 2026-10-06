@@ -25,4 +25,7 @@ public class ProyectoControlVersiones {
         System.out.println("MI metodo");
     }
     
+    public void Liz(){
+        System.out.println("Lizbeth Ramos");
+    }
 }
