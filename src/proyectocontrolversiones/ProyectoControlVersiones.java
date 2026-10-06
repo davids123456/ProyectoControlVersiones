@@ -21,4 +21,8 @@ public class ProyectoControlVersiones {
         //JADIRA
     }
     
+    public void David(){
+        System.out.println("MI metodo");
+    }
+    
 }
