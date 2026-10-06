@@ -10,6 +10,10 @@ package proyectocontrolversiones;
  */
 public class clase3 {
     
+    public void liz(){
+        System.out.println("Lizbeth");
+    }
+    
     public void david(){
         System.out.println("David");
     }
