@@ -16,4 +16,7 @@ public class clase3 {
     public void david(){
         System.out.println("David");
     }
+    public void angel(){
+        System.out.println("Angel");
+    }
 }
