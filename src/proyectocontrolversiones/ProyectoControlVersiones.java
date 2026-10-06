@@ -17,7 +17,6 @@ public class ProyectoControlVersiones {
         // TODO code application logic here
         //Bryan
         //ANGEL
-        //david
         //liz
         //JADIRA
     }
