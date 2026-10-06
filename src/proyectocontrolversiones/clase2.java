@@ -15,4 +15,13 @@ public class clase2 {
     public void david(){
         System.out.println("David");
     }
+    
+    
+    
+    public void liz(){
+        System.out.println("Lizbeth");
+    }
+    
+    
+    
 }
