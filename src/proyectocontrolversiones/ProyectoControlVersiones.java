@@ -39,4 +39,7 @@ public class ProyectoControlVersiones {
     public void Angel(){
         System.out.println("Angel GM");
     }
+     public void Jadira(){
+        System.out.println("Jadira Pandashina");
+    }
 }
