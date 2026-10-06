@@ -24,4 +24,7 @@ public class clase2 {
     
     
     
+    public void angel(){
+        System.out.println("Angel");
+    }
 }
