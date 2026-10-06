@@ -35,4 +35,8 @@ public class ProyectoControlVersiones {
        public void Sonnia(){
         System.out.println("Sonnia Pillajo");
     }
+       
+    public void Angel(){
+        System.out.println("Angel GM");
+    }
 }
