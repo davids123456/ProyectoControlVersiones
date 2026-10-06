@@ -28,4 +28,7 @@ public class ProyectoControlVersiones {
     public void Liz(){
         System.out.println("Lizbeth Ramos");
     }
+     public void Bryan(){
+        System.out.println("Bryan Yepez");
+    }
 }
