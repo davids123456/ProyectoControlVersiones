@@ -11,4 +11,8 @@ package proyectocontrolversiones;
 public class clase2 {
    //hola
     
+    
+    public void david(){
+        System.out.println("David");
+    }
 }
