@@ -13,4 +13,8 @@ public class clase1 {
  public void david (){
      System.out.println("David");
  }   
+ 
+ public void liz(){
+     System.out.println("Lizbeth Ramos");
+ }
 }
